@@ -1,0 +1,16 @@
+plan_id,plan_name,service_type,plan_category,contract_type,contract_months,launch_price,data_allowance_gb,speed_mbps,is_active
+PL01,Mobile Basic Flex,Mobile,Basic,Month-to-Month,0,299,25,,1
+PL02,Mobile Standard Flex,Mobile,Standard,Month-to-Month,0,499,60,,1
+PL03,Mobile Premium Flex,Mobile,Premium,Month-to-Month,0,799,150,,1
+PL04,Mobile Basic 12M,Mobile,Basic,12-Month,12,279,25,,1
+PL05,mobile standard 12m,Mobile,Standard,12-Month,12,449,60,,1
+PL06,Mobile Premium 12M,Mobile,Premium,12-Month,12,749,150,,1
+PL07,Mobile Standard 24M,Mobile,Standard,24-Month,24,429,75,,1
+PL08,Mobile Premium 24M,Mobile,Premium,24-Month,24,699,200,,1
+PL09,Fiber Basic Flex,Broadband,Basic,Month-to-Month,0,599,1000,50,1
+PL10,Fiber Standard Flex,Broadband,Standard,Month-to-Month,0,899,2000,100,1
+PL11,Fiber Premium  Flex ,Broadband,Premium,Month-to-Month,0,1499,3300,300,1
+PL12,Fiber Basic 12M,Broadband,Basic,12-Month,12,549,1000,50,1
+PL13,Fiber Standard 12M,Broadband,Standard,12-Month,12,849,2000,100,1
+PL14,Fiber Premium 12M,Broadband,Premium,12-Month,12,1399,3300,300,1
+PL15,FIBER ULTRA 24M,Broadband,Premium,24-Month,24,1799,5000,1000,1

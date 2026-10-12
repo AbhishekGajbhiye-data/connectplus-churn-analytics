@@ -1,0 +1,7 @@
+offer_id,offer_name,offer_type,offer_value,offer_duration_months
+OF01,20% Off for 3 Months,Discount,20,3
+OF02,30% Off for 2 Months,Discount,30,2
+OF03,Free Plan Upgrade for 3 Months,Free Upgrade,1,3
+OF04,50 GB Bonus Data for 3 Months,Data Bonus,50,3
+OF05,15% Off with 12-Month Lock-in,Contract Lock-in,15,12
+OF06,One-Month Bill Waiver,Discount,100,1

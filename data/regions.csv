@@ -1,0 +1,13 @@
+region_id,region_name,circle,zone,city_tier
+R01,MUMBAI,Maharashtra,West,Tier 1
+R02,Pune ,Maharashtra,West,Tier 1
+R03,Ahmedabad,Gujarat,West,Tier 1
+R04,delhi ncr,Delhi,North,Tier 1
+R05,Jaipur,Rajasthan,North,Tier 2
+R06,Lucknow,Uttar Pradesh (East),North,Tier 2
+R07,Bengaluru,Karnataka,South,Tier 1
+R08,Chennai,Tamil Nadu,South,Tier 1
+R09,Hyderabad,Andhra Pradesh & Telangana,South,Tier 1
+R10, Kochi,Kerala,South,Tier 2
+R11,Kolkata,Kolkata,East,Tier 1
+R12,Bhubaneswar,Odisha,East,Tier 2

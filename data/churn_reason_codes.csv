@@ -1,0 +1,16 @@
+churn_reason_id,reason_code,reason_description,reason_category,applies_to
+CR01,PR01,Price increase on current plan,Price,Voluntary
+CR02,PR02,Promotional discount ended,Price,Voluntary
+CR03,PR03,Plan too expensive,Price,Voluntary
+CR04,SQ01,Frequent network outages,Service Quality,Voluntary
+CR05,SQ02,Slow internet speed,Service Quality,Voluntary
+CR06,SQ03,Poor coverage / call drops,Service Quality,Voluntary
+CR07,SP01,Complaint not resolved,Support,Voluntary
+CR08,SP02,Poor customer service experience,Support,Voluntary
+CR09,CP01,Better offer from competitor,Competitor,Voluntary
+CR10,CP02,Switched to competitor network,Competitor,Voluntary
+CR11,RL01,Relocating outside coverage area,Relocation,Voluntary
+CR12,OT01,No longer needs the service,Other,Voluntary
+CR13,OT02,Other / not specified,Other,Voluntary
+CR14,PY01,Disconnected for non-payment,Payment,Involuntary
+CR15,PY02,Repeated payment default,Payment,Involuntary
